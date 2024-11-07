@@ -47,4 +47,13 @@ function find_me() {
    Discord: $2
    " | sed 's/^[ \t]*//'
 }
+
+# ======================================================================
+# Description: Orchestrates presentation and contact functions
+# ======================================================================
+function main() {
+    about_me "${NAME}" "${CURRENT_ROLE}" "${LOCATION}" 
+
+    find_me "${LINKEDIN}" "${DISCORD}" 
+}
 ```
