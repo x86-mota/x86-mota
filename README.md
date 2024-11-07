@@ -56,4 +56,9 @@ function main() {
 
     find_me "${LINKEDIN}" "${DISCORD}" 
 }
+
+# ======================================================================
+# Description: Starts script execution by calling the main function
+# ======================================================================
+main
 ```
