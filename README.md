@@ -37,4 +37,14 @@ function about_me() {
     I'm diving deep into, containerization, Kubernetes, cloud platforms, CI/CD and infrastructure automation.
     " | sed 's/^[ \t]*//'
 }
+
+# ======================================================================
+# Description: Displays contact information about the user
+# ======================================================================
+function find_me() {
+   echo "You can find me on: 
+   LinkedIn: $1
+   Discord: $2
+   " | sed 's/^[ \t]*//'
+}
 ```
