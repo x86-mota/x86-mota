@@ -1,14 +1,12 @@
 ### Tools & Technologies
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
     <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
     <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="Python" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
-
-<br>
 
 ---
 
