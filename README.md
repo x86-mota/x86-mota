@@ -10,7 +10,7 @@
 
 ---
 
-[x86mota@falcon ~]$ nano profile.sh
+[x86_mota@falcon ~]$ nano profile.sh
 
 ```bash
 #!/usr/bin/bash
