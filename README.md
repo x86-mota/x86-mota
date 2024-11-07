@@ -13,4 +13,13 @@
 #.JMML.  .JMML.`Mbmmd'.JMML..JMML.`Ybmd9'  dg      VF      VF    `Ybmd9'.JMML.   `Wbmd"MML.db
 #                                          ,j                                                     
 #  
+
+# ======================================================================
+# Defining constants
+# ======================================================================
+declare -r NAME="Felipe Cruz"
+declare -r CURRENT_ROLE="Business Central Developer"
+declare -r LOCATION="São Paulo, Brazil"
+declare -r LINKEDIN="felipecruzit"
+declare -r DISCORD="x86_mota"
 ```
