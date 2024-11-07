@@ -1,4 +1,18 @@
-[x86mota@falcon ~]$ vi ./profile.sh
+### Tools & Technologies
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+    <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="64" width="64" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Python" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+</div>
+
+<br>
+
+---
+
+[x86mota@falcon ~]$ nano profile.sh
 
 ```bash
 #!/usr/bin/bash
