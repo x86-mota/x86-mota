@@ -22,4 +22,19 @@ declare -r CURRENT_ROLE="Business Central Developer"
 declare -r LOCATION="São Paulo, Brazil"
 declare -r LINKEDIN="felipecruzit"
 declare -r DISCORD="x86_mota"
+
+# ======================================================================
+# Description: Displays basic information about the user
+# ======================================================================
+function about_me() {
+    echo "Hello there. I'm $1!
+    I'm currently job as a $2 living in $3.
+
+    I'm a Linux enthusiast, and my preferred distro is Arch Linux.
+    I enjoy exploring new tools and customizing my experience on the system.
+
+    Currently, I'm focusing on expanding my knowledge to become a DevOps Engineer.
+    I'm diving deep into, containerization, Kubernetes, cloud platforms, CI/CD and infrastructure automation.
+    " | sed 's/^[ \t]*//'
+}
 ```
