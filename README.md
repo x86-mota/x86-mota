@@ -10,7 +10,9 @@
     <a href="https://www.python.org" title="Python">
         <img align="center" alt="Python" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     </a>
-    <img align="center" alt="Git" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <a href="https://git-scm.com/" title="Git">
+        <img align="center" alt="Git" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    </a>
     <img align="center" alt="Docker" height="72" width="72" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img align="center" alt="Ansible" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
 </div>
