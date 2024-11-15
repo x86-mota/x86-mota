@@ -1,7 +1,9 @@
 ### Tools & Technologies
 
 <div style="display: inline_block">
-    <img align="center" alt="Linux" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <a href="https://www.kernel.org/" title="Linux">
+        <img align="center" alt="Linux" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    </a>
     <img align="center" alt="Shell script" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
     <a href="https://www.python.org" title="Python">
         <img align="center" alt="Python" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
