@@ -4,8 +4,8 @@
     <a href="https://www.kernel.org/" title="Linux">
         <img align="center" alt="Linux" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
     </a>
-    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" title="Bash Rereference Manual">    
-        <img align="center" alt="Shell script" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" title="Shell Script">    
+        <img align="center" alt="Shell Script" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
     </a>
     <a href="https://www.python.org" title="Python">
         <img align="center" alt="Python" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
