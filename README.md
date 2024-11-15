@@ -16,7 +16,9 @@
     <a href="https://www.docker.com/" title="Docker">
         <img align="center" alt="Docker" height="72" width="72" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     </a>
-    <img align="center" alt="Ansible" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
+    <a href="https://www.ansible.com/" title="Ansible">
+        <img align="center" alt="Ansible" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
+    </a>
 </div>
 
 ---
