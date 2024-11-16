@@ -1,28 +1,3 @@
-### Tools & Technologies
-
-<div style="display: inline_block">
-    <a href="https://www.kernel.org/" title="Linux">
-        <img align="center" alt="Linux" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-    </a>
-    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" title="Shell Script">    
-        <img align="center" alt="Shell Script" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-    </a>
-    <a href="https://www.python.org" title="Python">
-        <img align="center" alt="Python" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    </a>
-    <a href="https://git-scm.com/" title="Git">
-        <img align="center" alt="Git" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    </a>
-    <a href="https://www.docker.com/" title="Docker">
-        <img align="center" alt="Docker" height="72" width="72" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-    </a>
-    <a href="https://www.ansible.com/" title="Ansible">
-        <img align="center" alt="Ansible" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
-    </a>
-</div>
-
----
-
 [x86_mota@falcon ~]$ nano profile.sh
 
 ```bash
@@ -87,3 +62,211 @@ function main() {
 # ======================================================================
 main
 ```
+---
+
+### Tools & Technologies
+
+<table>
+    <td align="center" width="150px">
+        <a href="https://www.debian.org/">
+            <img 
+                align="center" 
+                alt="Debian" 
+                height="48" 
+                width="48" 
+                src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg"
+            />
+            <br />
+            <strong>Debian</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://archlinux.org/">
+            <img 
+                align="center" 
+                alt="Archlinux" 
+                height="48" 
+                width="48" 
+                src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"
+            />
+            <br />
+            <strong>Archlinux</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://fedoraproject.org/">
+            <img 
+                align="center" 
+                alt="Fedora" 
+                height="48" 
+                width="48" 
+                src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg"
+            />
+            <br />
+            <strong>Fedora</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://www.suse.com/">
+            <img 
+                align="center" 
+                alt="SUSE" 
+                height="48" 
+                width="48" 
+                src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original.svg"
+            />
+            <br />
+            <strong>SUSE</strong>
+        </a>
+    </td>
+<table>
+    <td align="center" width="150px">
+        <a href="https://git-scm.com/">
+            <img
+                align="center"
+                alt="Git"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+            />
+            <br />
+            <strong>Git</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html">
+            <img
+                align="center"
+                alt="Shell Script"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+            />
+            <br />
+            <strong>Shell Scripting</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://www.python.org">
+            <img
+                align="center"
+                alt="Python"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+            />
+            <br />
+            <strong>Python</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/">
+            <img
+                align="center"
+                alt="Microsoft C/AL"
+                height="48"
+                width="48"
+                src="https://github.com/x86-mota/x86-mota/blob/main/icons/BusinessCentral.svg"
+            />
+            <br />
+            <strong>Microsoft C/AL</strong>
+        </a>
+    </td>
+</table>
+<table>
+    <td align="center" width="150px">
+        <a href="https://www.docker.com/">
+            <img
+                align="center"
+                alt="Docker"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+            />
+            <br />
+            <strong>Docker</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://kubernetes.io/">
+            <img
+                align="center"
+                alt="Kubernetes"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"
+            />
+            <br />
+            <strong>Kubernetes</strong>
+        </a>
+    </td>
+</table>
+<table>
+    <td align="center" width="150px">
+        <a href="https://www.ansible.com/">
+            <img
+                align="center"
+                alt="Ansible"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg"
+            />
+            <br />
+            <strong>Ansible</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://www.terraform.io/">
+            <img
+                align="center"
+                alt="Terraform"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"
+            />
+            <br />
+            <strong>Terraform</strong>
+        </a>
+    </td>
+</table>
+<table>
+    <td align="center" width="150px">
+        <a href="https://www.mysql.com/">
+            <img
+                align="center"
+                alt="MySQL"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+            />
+            <br />
+            <strong>MySQL</strong>
+        </a>
+    </td>
+    <td align="center" width="150px">
+        <a href="https://mariadb.org/">
+            <img
+                align="center"
+                alt="MariaDB"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg"
+            />
+            <br />
+            <strong>MariaDB</strong>
+        </a>
+    </td>
+        <td align="center" width="150px">
+        <a href="https://www.postgresql.org/">
+            <img
+                align="center"
+                alt="PostgreSQL"
+                height="48"
+                width="48"
+                src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
+            />
+            <br />
+            <strong>PostgreSQL</strong>
+        </a>
+    </td>
+</table>
